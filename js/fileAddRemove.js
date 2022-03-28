@@ -1,6 +1,6 @@
 $(document).ready(function () {
 // Denotes total number of rows
-  var rowIdx = 0;
+  var rowIdx = 1;
 // jQuery button click event to add a row
   $('#addBtn').on('click', function () {
 // Adding a row inside the tbody.
